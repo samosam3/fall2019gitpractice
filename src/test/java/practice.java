@@ -4,6 +4,7 @@ public class practice {
 
         System.out.println("just practicing  ");
         System.out.println(" yes its practicing ");
+        System.out.println("update to the class ");
 
 
 
